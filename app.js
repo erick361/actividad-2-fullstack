@@ -1,4 +1,4 @@
-// app.js
+
 
 document.addEventListener('DOMContentLoaded', () => {
     const input = document.getElementById('nuevaTarea');
